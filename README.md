@@ -15,7 +15,9 @@ run npm install,
 
 npx sequelize-cli db:migrate
 
-npm start
+npm test (to run tests)
+
+npm start (to run application)
 
 
 The app serves on port 8000
